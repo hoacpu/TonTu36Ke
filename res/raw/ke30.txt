@@ -1,0 +1,3 @@
+﻿30. Lý đại đào cương (Đưa cây lý chết thay cây đào).
+
+Nghĩa là nếu ta có lỗi với nàng thì phải tìm cách đổ lỗi cho đối tượng khác, mà đối tượng hay nhất là những “nguyên nhân khách quan” để không bị mang tiếng ác.
